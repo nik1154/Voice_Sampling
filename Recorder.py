@@ -1,8 +1,5 @@
 """
-Real-Time Text-Independent Speaker Identification main system.
-
-First training for 30 seconds for each speaker. 
-Then testing for 60 seconds.
+Recorder for wav format
 
 Author: Nikhil 
 """
