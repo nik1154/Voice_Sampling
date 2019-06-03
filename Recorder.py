@@ -1,8 +1,8 @@
 """
 Recorder for wav format
 
-
-
+Record one 30 sec audio
+and one 5 sec, Change line number 30 to RECORD_SECONDS = 5
 
 Author: Nikhil 
 """
